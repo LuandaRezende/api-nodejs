@@ -1,4 +1,4 @@
-<h1>Sobre este respositório</h1>
+<h2>Sobre este respositório</h2>
 <p>Uma empresa X precisou disponibilizar um serviço para um hospital em que médicos possam cadastrar prescrições médicas para pacientes que realizam uma consulta e necessitam de uma receita com os devidos medicamentos.</p>
 <h2>O projeto</h2>
 <p>Api rest para integração com o sistema hospitalar.</p>
